@@ -1,0 +1,29 @@
+.fondo{
+    background-color: bisque;
+}
+
+.titulo{
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.foto1{
+    position: relative;
+    text-align: left;
+}
+
+.foto2{
+    position: relative;
+    text-align: center;
+}
+
+.foto3{
+    position: relative;
+    text-align: right;
+}
+
+.letra{
+    color: brown;
+}
